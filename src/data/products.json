@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ea96feff-1e33-48fc-ab1d-e49655d6fa40",
+    "slug": "lemon-meringue-cake-8",
+    "name": "Lemon Meringue Cake (8-inch)",
+    "category": "cake",
+    "description": "Nostrum quam similique in eum vitae voluptatibus quasi id at consequuntur sit velit rerum dignissimos earum.",
+    "price": 40
+  },
+  {
+    "id": "da9627bb-9ee7-4834-9a2b-d9429810143a",
+    "slug": "white-chocolate-raspberry-blondies",
+    "name": "White Chocolate & Raspberry Blondies",
+    "category": "tray-bake",
+    "description": "Nostrum quam similique in eum vitae voluptatibus quasi id at consequuntur sit velit rerum dignissimos earum.",
+    "price": 25
+  }
+]
